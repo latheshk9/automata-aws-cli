@@ -1,0 +1,7 @@
+autoScalingGroupName: "my-auto-scaling-group"
+launchConfigName: "my-launch-config"
+maxSize: "3"
+minSize: "1"
+vpcZoneIdentifier: "subnet-4f628736"
+        
+

@@ -1,0 +1,6 @@
+amiImageId: "ami-9114a8e9"
+instanceType: "t2.micro"
+launchConfigName: "my-launch-config"
+securityGroups: "sg-75ef080a"
+userData: ""
+keyPairName: "HudsonBay-V"
